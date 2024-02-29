@@ -6,11 +6,12 @@ This website a helps the user to see wheather there vehicle is ready for the roa
 
 -SETUP INSTRUCTION:
 
--download visual studios
+download visual studios
 
--download packages djano and npm
+download packages djano and npm
 
--python with latest version(python 3.7.0 or above)
+python with latest version(python 3.7.0 or above)
   
-To run the program:
+-To run the program:
+
   python manage.py
