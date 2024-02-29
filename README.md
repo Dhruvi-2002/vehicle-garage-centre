@@ -1,6 +1,7 @@
 # vehicle-garage-centre
 - Project overview
-this website a helps the user to see wheather there vehicle is ready for the road for drive
+this website a helps the user to see wheather there vehicle is ready for the road for drive.
+
 SETUP INSTRUCTION:
 -download visual studios
 -download packages djano and npm
